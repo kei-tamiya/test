@@ -4,6 +4,6 @@
 public class Test {
     public static void main(String args[]) {
         System.out.println("test");
-        // commit test by tamiya
+        // commit test3 by tamiya
     }
 }
